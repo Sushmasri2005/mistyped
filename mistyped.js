@@ -38,7 +38,7 @@
         "wrong": "begining"
     }, {
         "right": "believe",
-        "wrong": "beleive, belive"
+        "wrong": "beleive"
     }, {
         "right": "believe",
         "wrong": "belive"
@@ -152,7 +152,7 @@
         "wrong": "harrass"
     }, {
         "right": "harassment",
-        "wrong": "harrass, harrassment"
+        "wrong": "harrass"
     }, {
         "right": "honorary",
         "wrong": "honourary"
@@ -203,7 +203,7 @@
         "wrong": "noticable"
     }, {
         "right": "occasion",
-        "wrong": "ocassion, occassion"
+        "wrong": "ocassion"
     }, {
         "right": "occasion",
         "wrong": "occassion"
@@ -215,7 +215,7 @@
         "wrong": "occuring"
     }, {
         "right": "occurrence",
-        "wrong": "occurance, occurence"
+        "wrong": "occurence"
     }, {
         "right": "occurrence",
         "wrong": "occurance"
@@ -269,7 +269,7 @@
         "wrong": "religous"
     }, {
         "right": "remember",
-        "wrong": "rember, remeber"
+        "wrong": "rember"
     }, {
         "right": "remember",
         "wrong": "remeber"
