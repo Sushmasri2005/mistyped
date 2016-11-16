@@ -1,5 +1,4 @@
-;
-(function() {
+;(function() {
 
     var words = [{
         "right": "accommodate",
@@ -368,4 +367,6 @@
             }
         });
     });
+
+
 })();
